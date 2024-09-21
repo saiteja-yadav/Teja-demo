@@ -1,4 +1,4 @@
 # Teja-demo
 This is my first Git Repository
 <br>
-Author -<h1> Golla Saiteja</h1>
+Author -<h3> Golla Saiteja</h3>
